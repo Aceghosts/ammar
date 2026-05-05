@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { existsSync, readFileSync } from "fs";
+import { existsSync, readFileSync, readdirSync } from "fs";
 import path from "path";
 import type { Metadata } from "next";
 import { Bricolage_Grotesque, Inter } from "next/font/google";
@@ -26,6 +26,14 @@ function loadClientData(slug: string): CleanExecutiveData | null {
   const dataPath = path.join(process.cwd(), "data", "clients", `${slug}.json`);
   if (!existsSync(dataPath)) return null;
   return JSON.parse(readFileSync(dataPath, "utf-8")) as CleanExecutiveData;
+}
+
+export async function generateStaticParams() {
+  const dataDir = path.join(process.cwd(), "data", "clients");
+  if (!existsSync(dataDir)) return [];
+  return readdirSync(dataDir)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => ({ slug: f.replace(".json", "") }));
 }
 
 export async function generateMetadata({ params }: SitePageProps): Promise<Metadata> {
