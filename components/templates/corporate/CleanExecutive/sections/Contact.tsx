@@ -25,7 +25,7 @@ function linkedInDisplay(url: string) {
 }
 
 export default function Contact({
-  name: _name,
+  name: _name, // eslint-disable-line @typescript-eslint/no-unused-vars
   email,
   phone,
   location,
