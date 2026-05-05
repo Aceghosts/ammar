@@ -1,0 +1,141 @@
+{
+  "slug": "ammar-azhar",
+  "siteName": "ammar.ae",
+  "siteNameAccent": ".ae",
+
+  "name": "Ammar Azhar",
+  "role": "Account Executive",
+  "company": "Convex Interactive",
+  "heroLines": ["Build Relations.", "Drive Accounts.", "Grow Brands."],
+  "heroSubtitle": "IoBM '25 grad turned Account Executive — managing client relationships and delivering digital growth at Pakistan's leading agencies.",
+  "location": "Karachi, Pakistan",
+  "yearsExperience": "2+",
+  "profileImage": "/clients/ammar-azhar/profile.png",
+
+  "email": "",
+  "phone": "",
+  "linkedIn": "https://www.linkedin.com/in/ammar-azhar-858918235",
+
+  "stats": [
+    { "value": "2+",   "label": "Years in Digital Marketing" },
+    { "value": "4",    "label": "Brands & Agencies Worked With" },
+    { "value": "3",    "label": "Internships & Roles Completed" },
+    { "value": "2025", "label": "IoBM Graduate" }
+  ],
+
+  "clients": [
+    "Convex Interactive", "GroupM", "Raabtaa Tech", "Aga Khan University",
+    "IoBM", "Beaconhouse", "Convex Interactive", "GroupM"
+  ],
+
+  "aboutParagraphs": [
+    "I didn't wait to graduate before getting started. From volunteering at Aga Khan University to interning at Raabtaa Tech and GroupM, I've been learning the craft of marketing and client management since day one.",
+    "Today I work as an Account Executive at Convex Interactive — managing client accounts, building relationships, and turning briefs into results. Fresh graduate energy, agency-tested mindset."
+  ],
+  "aboutQuote": "Every brand has a story. My job is to make sure the right people hear it.",
+  "miniStats": [
+    { "val": "2+",  "label": "Years Experience" },
+    { "val": "4",   "label": "Organisations" },
+    { "val": "2025","label": "BBA Graduate" }
+  ],
+
+  "experience": [
+    {
+      "title": "Account Executive",
+      "company": "Convex Interactive",
+      "duration": "Jan 2025 – Present",
+      "location": "Karachi",
+      "current": true,
+      "bullets": [
+        "Managing key client accounts across digital and social media verticals",
+        "Coordinating between creative, strategy, and client teams to deliver campaigns",
+        "Building long-term client relationships to drive retention and upsell opportunities",
+        "Translating client briefs into actionable digital strategies"
+      ]
+    },
+    {
+      "title": "Management Trainee",
+      "company": "Convex Interactive",
+      "duration": "Aug 2024 – Dec 2024",
+      "location": "Karachi",
+      "current": false,
+      "bullets": [
+        "Trained across multiple departments including account management and strategy",
+        "Assisted senior team members in client servicing and campaign execution",
+        "Developed understanding of agency workflows and digital campaign operations"
+      ]
+    },
+    {
+      "title": "Marketing Intern",
+      "company": "GroupM",
+      "duration": "Jun 2023 – Aug 2023",
+      "location": "Pakistan",
+      "current": false,
+      "bullets": [
+        "Gained exposure to large-scale media planning and buying at a global agency",
+        "Assisted in campaign reporting and performance analysis",
+        "Worked alongside cross-functional teams on brand campaigns"
+      ]
+    },
+    {
+      "title": "Marketing Intern",
+      "company": "Raabtaa Tech",
+      "duration": "Sep 2022 – Nov 2022",
+      "location": "Pakistan",
+      "current": false,
+      "bullets": [
+        "Supported digital marketing initiatives for a growing tech startup",
+        "Assisted in social media content planning and community management",
+        "Contributed to brand awareness campaigns"
+      ]
+    },
+    {
+      "title": "HR Volunteer",
+      "company": "Aga Khan University",
+      "duration": "Aug 2018 – Nov 2018",
+      "location": "Karachi",
+      "current": false,
+      "bullets": [
+        "Volunteered in HR operations at one of Pakistan's leading institutions",
+        "Gained early exposure to professional work environments and teamwork"
+      ]
+    }
+  ],
+
+  "skills": [
+    "Account Management", "Client Relationship Management",
+    "Digital Marketing", "Social Media Marketing",
+    "Campaign Planning", "Brand Communication",
+    "Media Planning", "Client Presentations",
+    "Market Research", "Content Strategy",
+    "Team Collaboration", "Agency Workflow"
+  ],
+
+  "certifications": [
+    { "title": "Bachelor of Business Administration", "issuer": "Institute of Business Management (IoBM)" }
+  ],
+
+  "awards": [
+    { "title": "Management Trainee – Fast Tracked to Account Executive", "event": "Convex Interactive", "year": "2025" },
+    { "title": "Marketing Internship", "event": "GroupM Pakistan", "year": "2023" },
+    { "title": "HR Volunteer", "event": "Aga Khan University", "year": "2018" }
+  ],
+
+  "education": [
+    {
+      "degree": "BBA in Sales, Distribution & Marketing",
+      "institution": "Institute of Business Management",
+      "year": "2021 – 2025",
+      "detail": "IoBM – One of Pakistan's top business schools. Specialized in Sales, Distribution, and Marketing Operations."
+    },
+    {
+      "degree": "Secondary Education",
+      "institution": "Beaconhouse School System",
+      "year": "Prior to 2021",
+      "detail": "One of Pakistan's largest and most recognized private school networks."
+    }
+  ],
+
+  "contactHeading": ["Let's Connect", "And Build", "Together."],
+  "contactSubtext": "Open to collaborations, client conversations, and growth opportunities in digital marketing and account management."
+}

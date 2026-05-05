@@ -1,0 +1,177 @@
+{
+  "slug": "saad-ahmed",
+  "siteName": "saad.cdo",
+  "siteNameAccent": "cdo",
+
+  "name": "Saad Ahmed",
+  "role": "Chief Digital Officer",
+  "company": "Convex Interactive",
+  "heroLines": ["Drive Growth.", "Build Brands.", "Lead Digital."],
+  "heroSubtitle": "10+ years building brands and scaling revenue across telecom, tech, food & finance. Full-funnel strategy · Reducing CAC · Growing LTV.",
+  "location": "Karachi, Pakistan",
+  "yearsExperience": "10+",
+  "profileImage": "/clients/saad-ahmed/profile.png",
+
+  "email": "saadahmedshaikh.93@gmail.com",
+  "phone": "+92 332 2186872",
+  "linkedIn": "https://www.linkedin.com/in/saadshaikh93",
+
+  "stats": [
+    { "value": "300%",  "label": "Revenue Growth Delivered" },
+    { "value": "$2.5M+","label": "Upsell Revenue Generated" },
+    { "value": "10+",   "label": "Years of Experience" },
+    { "value": "75%",   "label": "Pitch Win Rate Achieved" }
+  ],
+
+  "clients": [
+    "PSO","BYD","Bank Alfalah","K-Electric","Unilever",
+    "HBL","Faysal Bank","Reckitt","HONOR","Solve.Care",
+    "Daraz","Careem","Pizza Hut","foodpanda","Kenwood"
+  ],
+
+  "aboutParagraphs": [
+    "I didn't start with a million-dollar brief. I started at 20 with social calendars, community replies, and campaign ideas. Over a decade, I've helped brands and agencies grow revenue, reduce costs, and scale teams.",
+    "Today I lead multi-functional teams, drive full-funnel growth, and scale client LTV with strategic upsells — not sales scripts. Built brands across telecom, tech, food, and finance."
+  ],
+  "aboutQuote": "Strategy that connects people, brands, and real business results.",
+  "miniStats": [
+    { "val": "300%",  "label": "Revenue Growth" },
+    { "val": "$2.5M+","label": "Upsell Revenue" },
+    { "val": "75%",   "label": "Win Rate" }
+  ],
+
+  "experience": [
+    {
+      "title": "Chief Digital Officer",
+      "company": "Convex Interactive",
+      "duration": "Jul 2025 – Present",
+      "location": "Karachi",
+      "current": true,
+      "bullets": [
+        "Delivered 300% total revenue growth over 3 years",
+        "Scaled client LTV through upselling worth 3× existing retainers",
+        "Grew team from 30 to 60+ across 3 years",
+        "Developed upsell strategy generating $2.5M+ in 3 years",
+        "Launched Pakistan's first AI chatbot for K-Electric",
+        "Increased pitch win rate from 20% to 75%"
+      ]
+    },
+    {
+      "title": "Business Director",
+      "company": "Convex Interactive",
+      "duration": "Jun 2023 – Jun 2025",
+      "location": "Karachi",
+      "current": false,
+      "bullets": [
+        "Increased monthly revenue by 60% in FY2023 and again in FY2024",
+        "Represented Convex at GITEX Dubai, securing 40+ qualified leads",
+        "Won GOLD at Dragons of Pakistan & Asia 2024",
+        "Won Silver Effies 2025 – Automotive & Renaissance Category",
+        "Led cross-functional team of 30+"
+      ]
+    },
+    {
+      "title": "Group Account Director",
+      "company": "Convex Interactive",
+      "duration": "Jul 2022 – Jun 2023",
+      "location": "Karachi",
+      "current": false,
+      "bullets": [
+        "Reduced departmental costs by 60%",
+        "Increased retainer accounts by 50% in under 12 months",
+        "Won Best Digital Campaign & Best Website – Pakistan Digital Awards 2023"
+      ]
+    },
+    {
+      "title": "Digital Marketing Manager",
+      "company": "Solve.Care",
+      "duration": "Feb 2021 – Jul 2022",
+      "location": "Karachi",
+      "current": false,
+      "bullets": [
+        "Won Best Organic Social Media Campaign – Global Digital Excellence Awards 2022",
+        "Boosted physician sign-ups across 5+ countries and 3 regions",
+        "Delivered 600% increase in digital currency value in 15 days"
+      ]
+    },
+    {
+      "title": "Digital Manager",
+      "company": "HONOR",
+      "duration": "Mar 2018 – Feb 2021",
+      "location": "Pakistan",
+      "current": false,
+      "bullets": [
+        "Increased brand TOM by 130% in 60 days",
+        "Ranked #1 smartphone in sales during Pakistan Day 2019 on Daraz",
+        "Managed 8-figure USD campaign budgets"
+      ]
+    },
+    {
+      "title": "Team Lead – Digital Planning",
+      "company": "String Media",
+      "duration": "Jan 2017 – Feb 2018",
+      "location": "Karachi",
+      "current": false,
+      "bullets": [
+        "Expanded account revenue by 300% (Mobile) and 200% (Food vertical)",
+        "Drove 500%+ sales growth via influencer campaigns",
+        "Key clients: Pizza Hut, QMobile, Careem, foodpanda"
+      ]
+    },
+    {
+      "title": "Senior Account Manager",
+      "company": "String Media",
+      "duration": "Jun 2016 – Jan 2017",
+      "location": "Karachi",
+      "current": false,
+      "bullets": [
+        "Delivered $250,000+ in upsells for one client in a single year",
+        "Managed 50+ influencers and 10+ strategic partners",
+        "Reduced CPA by 15% for QMobile with 3× ROAS"
+      ]
+    }
+  ],
+
+  "skills": [
+    "Partner Relationship Management","Client Consultation",
+    "Social Media Transformation","Full-Funnel Digital Marketing",
+    "Performance Marketing","Growth Strategy","Team Leadership",
+    "AI Tools Integration","Programmatic Advertising","Influencer Marketing",
+    "Campaign Strategy","Brand Building","Revenue Scaling","CRM & Analytics"
+  ],
+
+  "certifications": [
+    { "title": "Digital Guru Green Belt",                        "issuer": "Google" },
+    { "title": "Storytelling for Advertising Campaigns",         "issuer": "Meta" },
+    { "title": "Marketing to Humans",                            "issuer": "CXL Institute" },
+    { "title": "Meta Certified Creative Strategy Professional",  "issuer": "Meta" },
+    { "title": "Programmatic Competent",                         "issuer": "IAB" }
+  ],
+
+  "awards": [
+    { "title": "GOLD – Dragons of Pakistan & Asia",          "event": "Dragons of Pakistan & Asia Awards", "year": "2024" },
+    { "title": "Silver Effies – Automotive & Renaissance",   "event": "Effie Awards Pakistan",             "year": "2025" },
+    { "title": "Best Digital Campaign & Best Website",       "event": "Pakistan Digital Awards",           "year": "2023" },
+    { "title": "Best Social Media + CSR + High Impact",      "event": "Pakistan Digital Awards",           "year": "2025" },
+    { "title": "Best Organic Social Media Campaign",         "event": "Global Digital Excellence Awards",  "year": "2022" },
+    { "title": "Guest Speaker",                              "event": "Industry Events & Conferences",     "year": "Ongoing" }
+  ],
+
+  "education": [
+    {
+      "degree": "MBA in Marketing",
+      "institution": "SZABIST University",
+      "year": "2018 – 2020",
+      "detail": "Shaheed Zulfikar Ali Bhutto Institute of Science & Technology"
+    },
+    {
+      "degree": "BBA in Marketing",
+      "institution": "SZABIST University",
+      "year": "2011 – 2015",
+      "detail": "Shaheed Zulfikar Ali Bhutto Institute of Science & Technology"
+    }
+  ],
+
+  "contactHeading": ["Let's Build", "Something", "Meaningful."],
+  "contactSubtext": "Available for strategic consulting, leadership conversations, and full-funnel growth engagements."
+}
